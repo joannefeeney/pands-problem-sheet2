@@ -7,6 +7,7 @@
 
 
 # First integer which will be input by user
+# https://www.w3schools.com/python/python_user_input.asp
 cent1 = int(input("Enter the first amount in cent: "))
 
 # Second integer which will be input by user
