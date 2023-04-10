@@ -21,6 +21,6 @@ if total_cent >= 100:
     total_euro += 1
     total_cent -= 100
 
-# Output formatted with {:.2f} so the number will be formatted with two decimal places
+# Output formatted with {:.2f} so the number will be formatted with two decimal placess
 # https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/ 
 print("The total amount is €{:.2f}".format(total_euro + total_cent/100))
