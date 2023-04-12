@@ -24,4 +24,5 @@ if total_cent >= 100:
 
 # Output formatted with {:.2f} so the number will be formatted with two decimal places
 # https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/ 
+# Also in https://www.w3schools.com/python/python_string_formatting.asp 
 print("The total amount is €{:.2f}".format(total_euro + total_cent/100))
