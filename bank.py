@@ -17,10 +17,11 @@ cent2 = int(input("Enter the second amount in cent: "))
 total_cent = cent1 + cent2
 total_euro = 0
 # Use of if loop here to ensure it counts in euros if higher than 100
+# Took a while to get used to indentation
 if total_cent >= 100:
     total_euro += 1
     total_cent -= 100
 
-# Output formatted with {:.2f} so the number will be formatted with two decimal placess
+# Output formatted with {:.2f} so the number will be formatted with two decimal places
 # https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/ 
 print("The total amount is €{:.2f}".format(total_euro + total_cent/100))

@@ -11,7 +11,7 @@ account_number = input("Please enter your 10 digit account number: ")
 # https://realpython.com/python-string-split-concatenate-join/
 covered_account = "X" * 6 + account_number[6:]
 
-# Slicing and the negative index of -4: which allows the last 4 digits to be seen
+# Slicing and the - index of -4: which allows the last 4 digits to be seen
 # https://www.w3schools.com/python/python_strings_slicing.asp
 last_4_digits = covered_account[-4:]
 
