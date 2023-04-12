@@ -16,4 +16,4 @@ covered_account = "X" * 6 + account_number[6:]
 last_4_digits = covered_account[-4:]
 
 # Print account number
-print("Your account number is:", covered_account)
+print(f"Your account number is:", covered_account)
