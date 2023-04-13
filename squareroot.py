@@ -46,5 +46,5 @@ def sqrt(number, number_iters = 100):
     return number
 
 a = float(input("Enter a positive number:"))
-
-print("The square root of your number is",sqrt(a))
+# Output formatted with {:.2f} same as my bank.py program
+print("The square root of your number is {:.2f}".format(sqrt(a)))
