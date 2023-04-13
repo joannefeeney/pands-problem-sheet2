@@ -47,4 +47,4 @@ def sqrt(number, number_iters = 100):
 
 a = float(input("Enter a positive number:"))
 # Output formatted with {:.2f} same as my bank.py program
-print("The square root of your number is {:.2f}".format(sqrt(a)))
+print("The square root of your number is approximately {:.2f}".format(sqrt(a)))
