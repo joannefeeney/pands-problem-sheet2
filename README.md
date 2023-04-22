@@ -40,7 +40,7 @@ as input and outputs an approximation of its square root.
 -es.py
 This program reads in a text file and outputs the number of e's it contains.
 
-For this one I coped an alice_in_wonderland.txt from another Github user called kuemit:
+For this one I copied an alice_in_wonderland.txt from another Github user called kuemit:
 https://github.com/kuemit/txt_book#readme
 
 -plottask.py
