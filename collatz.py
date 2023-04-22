@@ -13,7 +13,7 @@
 def calculation(number):
     while number != 1:
         print(number, end =" ")
-# You have used this end =" " formatting in lectures
+# Have seen this format of end =" " in lectures
         if number % 2 == 0:
 # Defining a piece of code here that forces the user to input an even number only
 # https://www.programiz.com/python-programming/examples/odd-even
