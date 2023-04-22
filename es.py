@@ -1,4 +1,4 @@
-# squareroot.py
+# es.py
 # Author: Joanne Feeney
 # This program reads in a text file and outputs the number of e's it contains 
 
