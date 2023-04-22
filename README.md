@@ -40,6 +40,9 @@ as input and outputs an approximation of its square root.
 -es.py
 This program reads in a text file and outputs the number of e's it contains.
 
+For this one I coped an alice_in_wonderland.txt from another Github user called kuemit:
+https://github.com/kuemit/txt_book#readme
+
 -plottask.py
 This program displays a histogram of a normal distribution of a 1000 values with a mean 
 of 5 and standard deviation of 2, and a plot of the function h(x)=x3  in the range [0, 10], 
