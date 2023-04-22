@@ -25,6 +25,3 @@ def number_of_es(txt_file, letter):
     return text.count(letter)
  
 print(f"Number of es in txt file is: ", number_of_es('alice_in_wonderland.txt', 'e'))
-
-
-
